@@ -1,0 +1,8 @@
+ESCRIBIR estructura de datos
+BUSCAR datos
+REEMPLAZAR datos pilas
+MOSTRAR
+BORRAR 6
+MOSTRAR
+DESHACER
+MOSTRAR
