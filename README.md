@@ -20,7 +20,7 @@ Escribe esto y dale Enter:
 Bash
 node main.js test1.txt
 TABLA BIG O
+[Tabla_Complejidad_Big_O.xlsx](https://github.com/user-attachments/files/29171014/Tabla_Complejidad_Big_O.xlsx)
 
-[Tabla_Complejidad_Big_O.xlsx](https://github.com/user-attachments/files/29170988/Tabla_Complejidad_Big_O.xlsx)
 
 Video: https://drive.google.com/file/d/1CynsZm-k1Q4shkpUTZ5Mb9ZQjL1cVZLF/view?usp=sharing
